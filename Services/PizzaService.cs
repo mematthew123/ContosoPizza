@@ -19,13 +19,15 @@ public static class PizzaService
             {
                 Id = 1,
                 Name = "Classic Italian",
-                IsGlutenFree = false
+                IsGlutenFree = false,
+                Description = "It's tasty!",
             },
             new Pizza
             {
                 Id = 2,
                 Name = "Veggie",
-                IsGlutenFree = true
+                IsGlutenFree = true,
+                Description = "It's healthy!",
             }
         };
     }
