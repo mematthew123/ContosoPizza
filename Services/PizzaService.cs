@@ -1,5 +1,8 @@
 using ContosoPizza.Models;
 
+/// <summary>
+/// Represents a pizza.
+/// </summary>
 namespace ContosoPizza.Services;
 
 public static class PizzaService
