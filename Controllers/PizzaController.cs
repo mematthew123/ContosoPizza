@@ -6,18 +6,17 @@ namespace ContosoPizza.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-public class PizzaControler : ContollerBase
+public class PizzaController : ControllerBase
 {
-    public PizzaController()
-    {
-        // GET all action
+    public PizzaController() { }
 
-        // GET by Id action
+    // GET all action
 
-        // POST action
+    // GET by Id action
 
-        // PUT action
+    // POST action
 
-        // DELETE action
-    }
+    // PUT action
+
+    // DELETE action
 }
